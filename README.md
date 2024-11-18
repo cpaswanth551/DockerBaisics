@@ -1,4 +1,3 @@
-### README: Docker Setup for Python Django Application
 
 ---
 
