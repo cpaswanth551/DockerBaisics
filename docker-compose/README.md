@@ -2,9 +2,6 @@
 ---
 
 # Django with Docker Compose
-
-This README serves as a guide to set up a Django project using Docker Compose. It includes an overview of concepts and commands for creating and running containers for both the Django application and the PostgreSQL database.
-
 ---
 
 ## Prerequisites
